@@ -6,7 +6,7 @@
 ## Estudando.
 - HTML5
 - CSS
-- REACHT
+- REACT
 - JAVASCRIPT
 - TYPESCRIPT
 - PYTHON
