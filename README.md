@@ -2,7 +2,7 @@
 ## Olá, me chamo Rodrigo Lubenow.👋 
 
 - Sou Head de tecnologia e produto na Aluga Mais app👨‍💻
-- Estudannte de Full Stack web.
+- Estudante de Full Stack web.
 ## Estudando.
 - HTML5
 - CSS
