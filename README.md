@@ -13,6 +13,7 @@
 - PYTHON
 - Git
 <hr>
+
 <br>
 
 <div align="center">
@@ -39,6 +40,7 @@
 </div>
     
 <br>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=GuilhermRissi&label=Profile%20views&color=373aff&style=flat" alt="Rodrigolubenow" /> </p>
 <hr>
 <div align="center">
 
