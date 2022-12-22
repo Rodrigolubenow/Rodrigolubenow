@@ -1,6 +1,7 @@
 
 ## Olá, me chamo Rodrigo Lubenow.👋 
 
+- Graduado em Gestão da Tecnologia da Informação
 - Sou Head de tecnologia e produto na Aluga Mais app👨‍💻
 - Estudante de Full Stack web.
 ## Estudando.
